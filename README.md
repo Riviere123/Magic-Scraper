@@ -1,5 +1,4 @@
 # Magic-Scraper
-Dependancies: Requests and beutifulsoup
 Scrapes the webpage (https://scryfall.com/sets) for all magic the gathering set names and uses these set names to navigate the site to each page with all the cards in the given set.
 
 
